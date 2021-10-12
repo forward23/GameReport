@@ -1,7 +1,7 @@
 # Test task.
-![alt text](https://github.com/forward23/GameReport/blob/main/Test_task.pdf)
+![Test task](https://github.com/forward23/GameReport/blob/main/Test_task.pdf)
 
-###How to launch:
+### How to launch:
 
 1) extract archive
 2) cd <folder> (in terminal)
